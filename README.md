@@ -76,7 +76,7 @@ ChromeDriver is required for Selenium to control Chrome.
   - Note the version number (e.g., 114.0.5735.90).
 
 - **Download Matching ChromeDriver**:
-  - Visit the [ChromeDriver Downloads](https://sites.google.com/chromium.org/driver/) page.
+  - Visit the [ChromeDriver Downloads](https://googlechromelabs.github.io/chrome-for-testing/) page.
   - Download the version that matches your Chrome browser.
 
 - **Extract ChromeDriver**:
